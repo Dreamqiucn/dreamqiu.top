@@ -5,9 +5,9 @@ body {
 h1 {
 	color: #87CEEB;
 
-	font-size: 85px;
+	font-size: 65px;
 }
-
+a{margin-top: 20px;}
 div {
 	text-align: center;
 	border: 100px white;
@@ -25,17 +25,17 @@ h2 {
 	background-image: linear-gradient(to right, #dec2ff, #b0c7a1);
 	-webkit-background-clip: text;
 	color: transparent;
-	font-size: 60px;
+	font-size: 40px;
 }
 
 h4{
-	font-size: 50px;
+	font-size: 30px;
 	color: #c70003;
 }
 
 h3 {
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 }
 .xx {
 	color: white;
@@ -43,7 +43,7 @@ h3 {
 }
 
 .button {
-
+	margin-top: 20px;
 	background-image: linear-gradient(to right, #25aae1, #40e495);
 	/* Green */
 	border: none;
